@@ -1,2 +1,2 @@
-# blackjack
+# Blackjack
 Python code for Blackjack
